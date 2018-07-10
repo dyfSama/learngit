@@ -9,4 +9,5 @@ seconde upate
 本次修改同步到github上
 创建了一个分支
 测试解决冲突
+分支管理策略
 
